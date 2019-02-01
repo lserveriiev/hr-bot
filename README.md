@@ -1,7 +1,7 @@
 HR-Bot
 ======
 
-###Usage
+### Usage
 
 #### Install libraries
 ```bash
@@ -15,3 +15,7 @@ Update db config in `config/config.yml`. Import sourse from `dump.sql`.
 #### Web
 
 Root dir for nginx is `web`.
+
+#### TODO
+- DI
+- unit tests
